@@ -46,9 +46,25 @@ I focus on building effective recruitment delivery models, strengthening client 
 | Infomatics Inc. | Recruitment Specialist | Aug 2014 – Jun 2015 |
 | C-Cubed Solutions | Customer Support Officer | Aug 2013 – Jul 2014 |
 
-## Tools & Recruitment Platforms
+## Tools, Platforms & Technology
 
-Bullhorn | Zoho Recruit | CEIPAL | JobDiva | LinkedIn Recruiter | Dice | Indeed | Naukri | Monster | Boolean & X-Ray Search
+**ATS, Recruitment CRM & VMS:** Bullhorn | CEIPAL | JobDiva | Zoho Recruit | iCIMS | iLabor360 | Hirecraft
+
+**Productivity & Collaboration:** Google Workspace | Microsoft 365 | Zoho Workplace
+
+**AI-Powered Sourcing & Business Development:** Juicebox | Apollo.io | LinkedIn Recruiter
+
+**Global Recruitment Portals:** Dice | Indeed | Naukri | Monster | JobStreet | Totaljobs | CareerBuilder | Techfetch | Hiredly 
+
+**Sourcing & Research Techniques:** Boolean & X-Ray Search | Github | Talent Mapping | Market Research
+
+## Regional Market & Recruitment Exposure
+
+**Global Recruitment Markets:** United States | United Kingdom | Europe | India | Malaysia | Singapore | UAE | APAC
+
+**Global Capability Centres (GCCs):** GCC talent acquisition, recruitment delivery, shared services hiring, global workforce support and stakeholder coordination.
+
+**Recruitment & Business Focus:** Talent acquisition, talent mapping, sourcing strategy, recruitment operations, client engagement and workforce solutions.
 
 ## Education & Certification
 
@@ -69,7 +85,7 @@ Bullhorn | Zoho Recruit | CEIPAL | JobDiva | LinkedIn Recruiter | Dice | Indeed 
 I welcome opportunities to collaborate with global recruitment firms, staffing organisations, hiring teams and businesses seeking recruitment delivery, sourcing support, operational expertise and talent acquisition partnerships.
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/stephen-lamater-80711b30)
-- **Business:** [Asher Talent Hub](https://ashertalenthub.com)
+- **Business:** [Asher Talent Hub](https://www.ashertalenthub.com)
 - **Email:** contact@ashertalenthub.com
 
 ---
